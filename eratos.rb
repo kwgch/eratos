@@ -11,3 +11,7 @@ class Eratos
   end
   attr_accessor :prime
 end
+
+if caller.empty?
+  p Eratos.new(if ARGV[0].is_a? String then ARGV[0].to_i else ARGV end).prime
+end
