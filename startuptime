@@ -1,0 +1,48 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.010  000.010: --- VIM STARTING ---
+000.211  000.201: Allocated generic buffers
+000.362  000.151: locale set
+000.381  000.019: window checked
+001.941  001.560: inits 1
+001.969  000.028: parsing arguments
+001.972  000.003: expanding arguments
+002.036  000.064: shell init
+002.871  000.835: Termcap init
+002.910  000.039: inits 2
+003.132  000.222: init highlight
+004.408  000.775  000.775: sourcing /usr/share/vim/vim73/debian.vim
+005.467  000.338  000.338: sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+005.675  000.745  000.407: sourcing /usr/share/vim/vim73/syntax/synload.vim
+029.409  023.553  023.553: sourcing /usr/share/vim/vim73/filetype.vim
+029.517  024.831  000.533: sourcing /usr/share/vim/vim73/syntax/syntax.vim
+029.587  026.202  000.596: sourcing $VIM/vimrc
+029.834  000.120  000.120: sourcing $HOME/.vimrc
+029.858  000.404: sourcing vimrc file(s)
+030.818  000.121  000.121: sourcing /usr/share/vim/vim73/plugin/getscriptPlugin.vim
+031.307  000.380  000.380: sourcing /usr/share/vim/vim73/plugin/gzip.vim
+031.750  000.322  000.322: sourcing /usr/share/vim/vim73/plugin/matchparen.vim
+033.402  001.468  001.468: sourcing /usr/share/vim/vim73/plugin/netrwPlugin.vim
+033.558  000.030  000.030: sourcing /usr/share/vim/vim73/plugin/rrhelper.vim
+033.725  000.062  000.062: sourcing /usr/share/vim/vim73/plugin/spellfile.vim
+034.081  000.251  000.251: sourcing /usr/share/vim/vim73/plugin/tarPlugin.vim
+034.305  000.108  000.108: sourcing /usr/share/vim/vim73/plugin/tohtml.vim
+034.643  000.232  000.232: sourcing /usr/share/vim/vim73/plugin/vimballPlugin.vim
+034.970  000.205  000.205: sourcing /usr/share/vim/vim73/plugin/zipPlugin.vim
+035.649  002.612: loading plugins
+035.661  000.012: inits 3
+035.932  000.271: reading viminfo
+035.955  000.023: setting raw mode
+036.134  000.179: start termcap
+036.159  000.025: clearing screen
+037.700  001.541: opening buffers
+037.795  000.095: BufEnter autocommands
+037.804  000.009: editing files in windows
+038.037  000.233: VimEnter autocommands
+038.041  000.004: before starting main loop
+038.820  000.779: first screen update
+038.824  000.004: --- VIM STARTED ---
